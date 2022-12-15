@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GEometryPractice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GEometryPractice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GEometryPracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\BAKEMESHATTRIBUTEVERTEXTOOL.ipch" />
+    <None Include="..\..\BAKEMULTIMESHATTRIBUTEMAPSTOOL.ipch" />
+    <None Include="..\..\BOOLEANMESHESOP.ipch" />
+    <None Include="..\..\CAPSULESHADOWRENDERING.ipch" />
+    <None Include="..\..\COMPUTEGRAPHWORKER.ipch" />
+    <None Include="..\..\DEFERREDSHADINGRENDERER.ipch" />
+    <None Include="..\..\GROOMMANAGER.ipch" />
+    <None Include="..\..\GROOMRESOURCES.ipch" />
+    <None Include="..\..\HAIRSTRANDSLUT.ipch" />
+    <None Include="..\..\HAIRSTRANDSMESHPROJECTION.ipch" />
+    <None Include="..\..\HAIRSTRANDSRENDERING.ipch" />
+    <None Include="..\..\HAIRSTRANDSVOXELIZATION.ipch" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\GEometryPractice">
+      <UniqueIdentifier>{C6FEF10B-707D-3992-B8E2-BFF98199ECD1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GEometryPractice\GEometryPractice.Build.cs">
+      <Filter>Source\GEometryPractice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GEometryPractice\GEometryPractice.cpp">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GEometryPractice\GEometryPractice.h">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GEometryPractice\GEometryPracticeCharacter.cpp">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GEometryPractice\GEometryPracticeCharacter.h">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GEometryPractice\GEometryPracticeGameMode.cpp">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GEometryPractice\GEometryPracticeGameMode.h">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GEometryPractice\GEometryPracticeProjectile.cpp">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GEometryPractice\GEometryPracticeProjectile.h">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GEometryPractice\TP_PickUpComponent.cpp">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GEometryPractice\TP_PickUpComponent.h">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GEometryPractice\TP_WeaponComponent.cpp">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GEometryPractice\TP_WeaponComponent.h">
+      <Filter>Source\GEometryPractice</Filter>
+    </ClInclude>
+    <Filter Include="Source\GEometryPractice\Private">
+      <UniqueIdentifier>{7D06D9E1-639A-35DF-AFD1-F921BD4668E2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GEometryPractice\Private\SoftBody.cpp">
+      <Filter>Source\GEometryPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GEometryPractice\Private\Solver.cpp">
+      <Filter>Source\GEometryPractice\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GEometryPractice\Public">
+      <UniqueIdentifier>{BE6EE4A6-A1F7-3F36-BD03-C9CBA647F0C0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GEometryPractice\Public\SoftBody.h">
+      <Filter>Source\GEometryPractice\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GEometryPractice\Public\Solver.h">
+      <Filter>Source\GEometryPractice\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\source\\geometrypractice\\geometrypractice.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\intermediate\\build\\win64\\geometrypracticeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\intermediate\\build\\win64\\unrealeditor\\development\\geometrypractice\\definitions.geometrypractice.h",
+            "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\source\\geometrypractice\\geometrypractice.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

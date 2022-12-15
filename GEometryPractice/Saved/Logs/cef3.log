@@ -1,0 +1,5 @@
+[1129/135750.897:ERROR:device_event_log_impl.cc(208)] [13:57:50.897] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[1129/135840.004:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1129/135840.004:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1129/135840.158:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1129/135840.158:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}

@@ -1,0 +1,31 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\rlaqhdrb\AppData\Local\UnrealBuildTool\Log.txt
+  Building GEometryPracticeEditor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from GEometryPractice unity file: SoftBody.cpp, Solver.cpp, GEometryPractice.cpp, GEometryPracticeCharacter.cpp, GEometryPracticeGameMode.cpp, GEometryPracticeProjectile.cpp, TP_PickUpComponent.cpp, TP_WeaponComponent.cpp
+  Distributing 4 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  
+  Build ID: {F010A12D-BED1-4236-8BA6-7976FDCD372A}
+  
+  --------------------Project: Default-------------------------------------------
+  [1/4] SoftBody.cpp (0:39.96 at +0:00)
+  [2/4] UnrealEditor-GEometryPractice-Win64-DebugGame.dll (0:02.00 at +0:40)
+     Creating library C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\UnrealEditor-GEometryPractice-Win64-DebugGame.suppressed.lib and object C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\UnrealEditor-GEometryPractice-Win64-DebugGame.suppressed.exp
+  [3/4] UnrealEditor-GEometryPractice-Win64-DebugGame.lib (0:00.12 at +0:42)
+     Creating library C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\UnrealEditor-GEometryPractice-Win64-DebugGame.lib and object C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\UnrealEditor-GEometryPractice-Win64-DebugGame.exp
+  [4/4] GEometryPracticeEditor-Win64-DebugGame.target (0:00.20 at +0:42)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 43.05 seconds
+  Total execution time: 44.54 seconds

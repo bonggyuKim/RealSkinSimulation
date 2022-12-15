@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GEometryPractice",
+			"Path": "C:\\Users\\rlaqhdrb\\Documents\\Unreal Projects\\GEometryPractice\\Source\\GEometryPractice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GEometryPracticeEditor",
+			"Path": "C:\\Users\\rlaqhdrb\\Documents\\Unreal Projects\\GEometryPractice\\Source\\GEometryPracticeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

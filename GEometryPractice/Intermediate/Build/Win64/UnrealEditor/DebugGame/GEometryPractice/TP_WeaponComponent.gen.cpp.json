@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\intermediate\\build\\win64\\unrealeditor\\inc\\geometrypractice\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\intermediate\\build\\win64\\geometrypracticeeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\intermediate\\build\\win64\\unrealeditor\\debuggame\\geometrypractice\\definitions.geometrypractice.h",
+            "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\source\\geometrypractice\\tp_weaponcomponent.h",
+            "c:\\users\\rlaqhdrb\\documents\\unreal projects\\geometrypractice\\intermediate\\build\\win64\\unrealeditor\\inc\\geometrypractice\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

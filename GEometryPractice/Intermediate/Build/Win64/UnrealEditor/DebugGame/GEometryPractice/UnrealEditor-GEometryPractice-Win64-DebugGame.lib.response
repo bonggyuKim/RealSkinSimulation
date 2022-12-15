@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GEometryPractice-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\GEometryPracticeEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\SoftBody.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\Solver.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\GEometryPractice.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\GEometryPracticeCharacter.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\GEometryPracticeGameMode.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\GEometryPracticeProjectile.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\TP_PickUpComponent.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\TP_WeaponComponent.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\GEometryPractice.init.gen.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\GEometryPracticeCharacter.gen.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\GEometryPracticeGameMode.gen.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\GEometryPracticeProjectile.gen.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\SoftBody.gen.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\Default.rc2.res"
+/OUT:"C:\Users\rlaqhdrb\Documents\Unreal Projects\GEometryPractice\Intermediate\Build\Win64\UnrealEditor\DebugGame\GEometryPractice\UnrealEditor-GEometryPractice-Win64-DebugGame.lib"
